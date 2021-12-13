@@ -1,0 +1,13 @@
+{
+  "short_name": "Tip calculator",
+  "name": "Tip calculator (Frontend Mentor challenge)",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
