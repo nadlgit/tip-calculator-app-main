@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tip-calculator-app-main/static/css/main.a617e044.chunk.css",
-    "main.js": "/tip-calculator-app-main/static/js/main.fd966f0e.chunk.js",
-    "main.js.map": "/tip-calculator-app-main/static/js/main.fd966f0e.chunk.js.map",
-    "runtime-main.js": "/tip-calculator-app-main/static/js/runtime-main.acb41b50.js",
-    "runtime-main.js.map": "/tip-calculator-app-main/static/js/runtime-main.acb41b50.js.map",
-    "static/js/2.c9dbbc6d.chunk.js": "/tip-calculator-app-main/static/js/2.c9dbbc6d.chunk.js",
-    "static/js/2.c9dbbc6d.chunk.js.map": "/tip-calculator-app-main/static/js/2.c9dbbc6d.chunk.js.map",
-    "static/js/3.39534570.chunk.js": "/tip-calculator-app-main/static/js/3.39534570.chunk.js",
-    "static/js/3.39534570.chunk.js.map": "/tip-calculator-app-main/static/js/3.39534570.chunk.js.map",
+    "main.css": "/tip-calculator-app-main/static/css/main.6379ca5b.chunk.css",
+    "main.js": "/tip-calculator-app-main/static/js/main.0f49a2b3.chunk.js",
+    "main.js.map": "/tip-calculator-app-main/static/js/main.0f49a2b3.chunk.js.map",
+    "runtime-main.js": "/tip-calculator-app-main/static/js/runtime-main.d0fa60c9.js",
+    "runtime-main.js.map": "/tip-calculator-app-main/static/js/runtime-main.d0fa60c9.js.map",
+    "static/js/2.0b84b207.chunk.js": "/tip-calculator-app-main/static/js/2.0b84b207.chunk.js",
+    "static/js/2.0b84b207.chunk.js.map": "/tip-calculator-app-main/static/js/2.0b84b207.chunk.js.map",
     "index.html": "/tip-calculator-app-main/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/tip-calculator-app-main/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.c9dbbc6d.chunk.js.LICENSE.txt": "/tip-calculator-app-main/static/js/2.c9dbbc6d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tip-calculator-app-main/static/media/logo.6ce24c58.svg"
+    "static/css/main.6379ca5b.chunk.css.map": "/tip-calculator-app-main/static/css/main.6379ca5b.chunk.css.map",
+    "static/js/2.0b84b207.chunk.js.LICENSE.txt": "/tip-calculator-app-main/static/js/2.0b84b207.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/tip-calculator-app-main/static/media/icon-person.65bfd204.svg",
+    "static/media/logo.3cc0528b.svg": "/tip-calculator-app-main/static/media/logo.3cc0528b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.acb41b50.js",
-    "static/js/2.c9dbbc6d.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fd966f0e.chunk.js"
+    "static/js/runtime-main.d0fa60c9.js",
+    "static/js/2.0b84b207.chunk.js",
+    "static/css/main.6379ca5b.chunk.css",
+    "static/js/main.0f49a2b3.chunk.js"
   ]
 }
